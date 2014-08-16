@@ -11,7 +11,7 @@ This is source code of my book.
 
 第15页  第4段，最后一句Prelude如定义3curry 。。。 改为Prelude中定义了curry。。。
 
-第19页  第2段，以一个小开头。应该改为以一个小写字母开头。
+第16页  第2段，以一个小开头。应该改为以一个小写字母开头。
 
 第21页  2.2.3标题 Enum而非Emum
 
